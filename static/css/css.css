@@ -1,0 +1,22 @@
+*{font-family:Optima ;background-color: #1F2739;}
+body{color: aliceblue;}
+h1{font-size: 5vh;}
+div {
+    margin: 1em;
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.8);
+    display: inline-block;
+    border-radius: 40px;
+    padding: 8px 30px;
+}
+
+.img1 {
+    width: 600px;
+    height: 500px;
+    overflow: hidden;
+  }
+  
+  .img1 img {
+    width: 100%;
+    height: auto;  
+  }
